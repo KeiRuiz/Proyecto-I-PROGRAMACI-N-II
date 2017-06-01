@@ -2,22 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Servlets/CustomerRetrievalServlet.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Servlets/VehicleInfoServlet.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Business/VehicleBusiness.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Servlets/VehicleRetrievalServlet.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Data/CustomerData.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/web/modify_customer.jsp</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/web/insert_vehicle.jsp</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Domain/Customer.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/web/insert_customer.jsp</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Servlets/VehicleManagementServlet.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Business/CustomerBusiness.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Domain/User.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Data/VehicleData.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Servlets/CustomerInfoServlet.java</file>
-            <file>file:/C:/Users/Usuario/Documents/Progra2/ProyectoProgra1/Proyecto%20I%20PROGRAMACIÓN%20II/ParkingSystem/src/java/Servlets/CustomerManagementServlet.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
